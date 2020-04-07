@@ -1,0 +1,1 @@
+cp -v -f src/lib/apex/apexTestApi.js node_modules/salesforce-alm/dist/lib/apex/
